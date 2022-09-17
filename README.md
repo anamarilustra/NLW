@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Hi! Extremamente feliz em compartilhar que tive o prazer de construir esse projeto no evento Next Level Week da Rocketseat. 🚀✨
+Olá! Extremamente feliz em compartilhar que tive o prazer de construir esse projeto no evento Next Level Week da Rocketseat. 🚀✨
 
 [🔗 Clique aqui para acessar](https://anamarilustra.github.io/NLW-eSports/)
 
