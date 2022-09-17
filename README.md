@@ -10,9 +10,10 @@ Hi! Extremamente feliz em compartilhar que tive o prazer de construir esse proje
 
 ## 🛠 Tecnologias 
 
-    - HTML
-    - CSS
-    - Git e Github
+- HTML
+- CSS
+- Git e Github
 
 ## ✉️ Contato 
-    anamarilustra@gmail.com
+
+anamarilustra@gmail.com
